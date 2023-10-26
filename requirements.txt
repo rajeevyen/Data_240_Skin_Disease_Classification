@@ -1,0 +1,18 @@
+numpy
+pandas
+matplotlib
+seaborn
+tenserflow
+python-box==6.0.2
+dvc
+pyYAML
+types-pyYAML
+ensure==1.0.2
+Flask-Cors
+Flask  ### Web application
+scipy
+joblib
+tqdm ###prgressive bar
+notebook 
+
+-e .
